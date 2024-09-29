@@ -1,0 +1,23 @@
+{
+  "name": "10-objectorientedprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robscafe433/10-ObjectOrientedProgramming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robscafe433/10-ObjectOrientedProgramming/issues"
+  },
+  "homepage": "https://github.com/robscafe433/10-ObjectOrientedProgramming#readme",
+  "dependencies": {
+    "inquirer": "^11.1.0"
+  }
+}
